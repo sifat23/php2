@@ -1,0 +1,40 @@
+.fl{
+	background: #0FDCA7;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: #000;
+    text-align: center;
+}
+.br{
+	border: 3px solid #0BBB8D;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: center;
+}
+.w{
+	font-size: 10px;
+    color: #FF0B0B;
+}
+.id{
+
+}
+.e{
+}
+.form-control {
+	width: 80%;
+}
+
+.btn-success {
+    margin-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-size: 20px;
+    background-color: #4FA94F;
+    border-color: #4cae4c;
+}
+
+.op{
+    
+}
